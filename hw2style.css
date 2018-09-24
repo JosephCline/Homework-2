@@ -1,0 +1,469 @@
+body {
+    margin: 0;
+    color: black;
+    background: Ivory;
+    font-family:"Andale Mono", monospace;
+}
+#CIS {
+    margin:0;
+    font-weight:500;
+    border:darkred solid;
+    border-radius: 25px;
+    font-family:"Andale Mono", monospace;
+}
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 16px;
+}
+footer {
+    clear: both;
+    padding: 16px;
+    background-color: #000;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-family:"Arial Black", Gadget;
+}
+@media only screen 
+and (min-device-width: 480px)
+and (min-width: 700px)
+{
+    section {
+        float: left;
+        width: 70%;
+    }
+    nav {
+        float: left;
+        width: 15%;
+    }
+    }
+.navbase1 {
+    overflow: hidden;
+    background-color: grey;
+}
+.navbase1 a  {
+    float: left;
+    display:block;
+    color: black;
+    text-align:center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbase1 a:hover {
+    background-color: darkred;
+    color:Ivory;
+    width:100%;
+}    
+
+.navbase {
+    overflow: hidden;
+    background-color: grey;
+}
+.navbase a {
+    float: left;
+    display:block;
+    color: black;
+    text-align:center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbase a:hover {
+    background-color: darkred;
+    color:Ivory;
+    width:100%;
+}
+
+#sub {
+    color:Ivory;
+    font-size:12px;
+    font-family:"Arial Black", Gadget, sans-serif;
+	font-weight:bold;
+}
+#sub3 {
+    color:Ivory;
+    font-weight:bold;
+    font-size:12px;
+    font-family:"Arial Black", Gadget, sans-serif;
+}
+#DN {
+    text-align:center;
+    height:20px;
+}
+#PDN {
+    text-align:center;
+}
+tr, td, th { 
+    padding: 20px; 
+    border: solid 5px black;
+    text-align: center;
+    background:Ivory;
+    font-family:"Andale Mono", monospace;
+    color:darkred;
+    font-weight:bold;
+}
+table {
+    border:none;
+}
+#GD {
+    color:darkred;
+    text-decoration: none;
+    font-size:20px;
+}
+#HG {
+    color:darkred;
+    text-decoration: none;
+    font-size:20px;
+}
+#NC {
+    color:darkred;
+    text-decoration: none;
+    font-size:20px;
+}
+#price {
+    border-radius: 25px;
+    border: 4px solid black;
+    padding: 20px; 
+    color:darkred;
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    font-weight:bold;
+}
+#TLD {
+    padding: 20px; 
+    text-align: center;
+    background:Ivory;
+    font-family:"Andale Mono", monospace;
+    margin-right:auto;
+	margin-left:auto;
+}
+h3 {
+    text-align:center;
+}
+#musicsale {
+    border-radius: 25px;
+    border: 4px solid black;
+    padding: 20px;
+}
+#musicsaleinfo {
+    border-radius: 25px;
+    border: 4px solid black;
+    padding: 20px;
+}
+#bluehost {
+    border-radius: 25px;
+    border: 4px solid black;
+    padding: 20px; 
+    color:darkred;
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    font-weight:bold;
+}
+#list-1 {
+    width:320px;
+    font-style:italic;
+    font-family:Georgia, Times, serif;
+    font-size:28px; 
+    color:darkred;
+    display:block;
+}
+#list-2 {
+    width:320px;
+    font-style:italic;
+    font-family:Georgia, Times, serif;
+    font-size:28px;
+    color:darkred;
+    display:block;
+}
+#list-3 {
+    width:320px;
+    font-style:italic;
+    font-family:Georgia, Times, serif;
+    font-size:28px; 
+    color:darkred;
+    display:block;
+}
+#list-4 {
+    width:320px;
+    font-style:italic;
+    font-family:Georgia, Times, serif;
+    font-size:28px; 
+    color:darkred;  
+    display:block;
+}
+ul {
+    list-style-type: square;
+}
+ol {
+    list-style-type: decimal;
+}
+#list1{
+    font-size:20px;
+    border-left: 1px solid darkred;
+    display:block;
+    padding:8px;
+}
+#list2{
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list3{
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list4 {
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list5 { 
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list6 {
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list7 { 
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list8 {
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list9 {
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list10 {
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list11 {
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+#list12 {
+    font-size:20px;
+    display:block;
+    padding:8px;
+    border-left: 1px solid darkred;
+}
+
+aside ul {
+    padding:0;
+    margin:0;
+    list-style: none;
+    position: relative;
+}
+aside ul li {
+    display:inline-block;
+    background-color: grey;    
+}
+aside a {
+    display:block;
+    padding:0px 80px;
+    color:Black;
+    font-size:20px;
+    line-height: 60px;
+    text-decoration:none;
+}
+
+aside a:hover {
+    background-color:darkred;
+    color:Ivory;
+}
+aside ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+}
+aside ul li:hover > ul {
+    display:inherit;
+}
+aside ul ul li {
+    min-width:170px;
+    display:list-item;
+    position: relative;
+}
+aside {
+  float: left;
+  width:15%;
+}
+#title1 {
+    height:1px;
+}
+#GDtd {
+    color:darkred;
+    font-size:16px;
+    font-weight:bold;
+}
+#HGtd {
+    color:darkred;
+    font-weight:bold;
+    font-size:16px;
+}
+#NCtd {
+    color:darkred;
+    font-weight:bold;
+    font-size:16px;
+}
+#musicsale {
+    border-radius: 25px;
+    border: 4px solid black;
+    padding: 20px; 
+    color:darkred;
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    font-weight:bold;
+}
+#musicsaleinfo {
+    border-radius: 25px;
+    border: 4px solid black;
+    padding: 20px; 
+    color:darkred;
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    font-weight:bold;
+
+}
+#tld1 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }
+#tld2 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }
+#tld3 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }
+#tld4 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }
+#tld5 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }    
+#tld6 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }    
+#tld7 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }    
+#tld8 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    } 
+#tld9 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }
+#tld10 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }
+#tld11 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }    
+#tld12 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }    
+#tld13 {
+	margin-right:auto;
+	margin-left:auto;
+    text-align:center;
+    }    
+.title {
+	height:5px;
+    font-size:20px;
+}
+#rankweb {
+	text-align:center;
+    border-radius: 25px;
+    border: 4px solid;
+    border-color: white white black white;
+}
+#subdomain {
+	text-align:center;
+    border-radius: 25px;
+    border: 4px solid;
+    border-color: white white black white;
+}
+#robot {
+	text-align:center;
+    border-radius: 25px;
+    border: 4px solid;
+    border-color: white white black white;
+}
+#statistic {
+	text-align:center;
+    border-radius: 25px;
+    border: 4px solid;
+    border-color: white white black white;
+}
+#hprice {
+	text-align:center;
+	font-size:20px;
+    height:5px;
+}
+#hmusicsale {
+	text-align:center;
+	font-size:20px;
+    height:5px;
+}
+#hmusicsaleinfo {
+	text-align:center;
+	font-size:20px;
+    height:5px;
+}
+#hbluehost {
+	text-align:center;
+	font-size:20px;
+    height:5px;
+}
