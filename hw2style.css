@@ -2,14 +2,14 @@ body {
     margin: 0;
     color: black;
     background: Ivory;
-    font-family:Andale Mono, monospace;
+    font-family:"Andale Mono", monospace;
 }
 #CIS {
     margin:0;
     font-weight:500;
     border:darkred solid;
     border-radius: 25px;
-    font-family:Andale Mono, monospace;
+    font-family:"Andale Mono", monospace;
 }
 header {
     background-color: black;
@@ -24,7 +24,7 @@ footer {
     color: white;
     text-align: center;
     font-size: 12px;
-    font-family:"Arial Black", Gadget, 
+    font-family:"Arial Black", Gadget;
 }
 @media only screen 
 and (min-device-width: 480px)
@@ -39,8 +39,6 @@ and (min-width: 700px)
         width: 15%;
     }
     }
-
-
 .navbase1 {
     overflow: hidden;
     background-color: grey;
@@ -103,7 +101,7 @@ tr, td, th {
     border: solid 5px black;
     text-align: center;
     background:Ivory;
-    font-family:Andale Mono, monospace;
+    font-family:"Andale Mono", monospace;
     color:darkred;
     font-weight:bold;
 }
@@ -139,7 +137,7 @@ table {
     padding: 20px; 
     text-align: center;
     background:Ivory;
-    font-family:Andale Mono, monospace;
+    font-family:"Andale Mono", monospace;
     margin-right:auto;
 	margin-left:auto;
 }
@@ -289,7 +287,7 @@ aside ul li {
 }
 aside a {
     display:block;
-    padding:0 80;
+    padding:0px 80px;
     color:Black;
     font-size:20px;
     line-height: 60px;
