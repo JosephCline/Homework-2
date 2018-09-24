@@ -27,10 +27,10 @@ Following the following steps and specifications.
 Part 1: Creating your semantic HTML 5 page layout
 1. Create a blank HTML file and name it: domainnames.html Save it in the same
 location/folder as your assignment #1 clientserver.html file.
-2. Add the code necessary to make the page HTML 5 compliant, i.e. DocType, <head> section (the
-three <meta> tags, <link> tag, <title> tag within it), <body> section, open/close <html>, etc. You
+2. Add the code necessary to make the page HTML 5 compliant, i.e. DocType, head section (the
+three meta tags, link tag, title tag within it), body section, open/close htmlf, etc. You
 can use the template page/code from Assignment #1.
-Use the following text as your <title> tag: Domain Names and Web Hosting
+Use the following text as your title tag: Domain Names and Web Hosting
 2
 Based on this content (Domain Names and Web Hosting), create appropriate keywords and
 description meta tags.
@@ -38,8 +38,8 @@ Semantic HTML
 New semantic HTML tags were added to HTML in HTML 5 for page structure and layout.
 Semantics is the study of the meanings of words and phrases in language. Semantic elements
 are elements with a meaning. A semantic element clearly describes its meaning to both the
-browser and the developer. Non-semantic elements such as <div> and <span> tell us nothing
-about content. Semantic elements such as <header> and <nav> and more clearly describe their
-content. Using the emphasis <em> tag over italics <i> is another example. Using semantic tags
+browser and the developer. Non-semantic elements such as div and span tell us nothing
+about content. Semantic elements such as header and nav and more clearly describe their
+content. Using the emphasis em tag over italics i is another example. Using semantic tags
 allows web agents such as search engines, automated processors of documents, and other
 software to ascertain the purpose and significance of the web page content/text.
